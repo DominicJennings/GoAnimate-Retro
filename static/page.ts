@@ -69,7 +69,7 @@ module.exports = function (req, res, url) {
 					username: "good bois",
 					uemail: "crazy suitcase",
 					numContact: "0",
-					ut: 23,
+					ut: 30,
 					ve: false,
 					isEmbed: 0,
 					nextUrl: "/go/movie/?movieId=<movieId>",
