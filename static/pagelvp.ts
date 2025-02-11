@@ -62,7 +62,7 @@ module.exports = function (req, res, url) {
 					userId: "0ZQgqAU_m7b8",
 					username: "Dina Roach",
 					uemail: "",
-					ut: null,
+					ut: 30,
 					numContact: "0",
 					apiserver: "/",
 					duration: "31",
