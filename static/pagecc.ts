@@ -35,7 +35,7 @@ module.exports = function (req, res, url) {
 	switch (url.pathname) {
 		case "/go/charactercreator/new_char/": {
 			attrs = {
-				data: "https://josephcrosmanplays532.github.io/animation/808/cc.swf", // data: 'cc.swf',
+				data: "https://dominicjennings.github.io/animation/808/cc.swf", // data: 'cc.swf',
 				type: "application/x-shockwave-flash",
 				id: "char_creator",
 	                        height: "500",
@@ -59,7 +59,7 @@ module.exports = function (req, res, url) {
 					ut: "60",
 				},
 				allowScriptAccess: "always",
-				movie: "https://josephcrosmanplays532.github.io/animation/808/cc.swf", // 'http://localhost/cc.swf'
+				movie: "https://dominicjennings.github.io/animation/808/cc.swf", // 'http://localhost/cc.swf'
 			};
 			break;
 		}
@@ -318,7 +318,7 @@ jQuery('.money').bind('mouseout', function(e) {
 <script type="text/javascript">
 jQuery('#char_creator_client').flash({
 	id: "char_creator",
-	swf: "https://josephcrosmanplays532.github.io/animation/808/cc.swf",
+	swf: "https://dominicjennings.github.io/animation/808/cc.swf",
 	height: 500,
 	width: 954,
 
@@ -497,7 +497,7 @@ function bannedUser(value){
     }
 }
 </script>
-<div style="height:0;overflow:hidden;"><object width="1" height="1">   <param name="vap" value="https://josephcrosmanplays532.github.io/static/477/go/swf/VAP.swf"></param>   <param name="bgcolor" value="#000000"><param name="allowFullScreen" value="true"></param>   <param name="FlashVars" value="detect=true"/>   <param name="allowscriptaccess" value="always"></param>   <embed src="https://josephcrosmanplays532.github.io/static/477/go/swf/VAP.swf" flashvars="detect=true" type="application/x-shockwave-flash" width="1" height="1" bgcolor="#ffffff" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>    <script>
+<div style="height:0;overflow:hidden;"><object width="1" height="1">   <param name="vap" value="https://dominicjennings.github.io/static/477/go/swf/VAP.swf"></param>   <param name="bgcolor" value="#000000"><param name="allowFullScreen" value="true"></param>   <param name="FlashVars" value="detect=true"/>   <param name="allowscriptaccess" value="always"></param>   <embed src="https://josephcrosmanplays532.github.io/static/477/go/swf/VAP.swf" flashvars="detect=true" type="application/x-shockwave-flash" width="1" height="1" bgcolor="#ffffff" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>    <script>
     //check userdata (IE)
     if (IE.version > 6) {
         var ud = new UserData();
