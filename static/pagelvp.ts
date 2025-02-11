@@ -36,11 +36,11 @@ module.exports = function (req, res, url) {
 		case "/go/movie/": {
 			title = "Player";
 			attrs = {
-				data: "https://josephcrosmanplays532.github.io/animation/18/player.swf",
+				data: "https://dominicjennings.github.io/animation/2025 New/player.swf",
 				type: "application/x-shockwave-flash",
 				
 				id: "Player",
-	                        swf: "https://josephcrosmanplays532.github.io/animation/18/player.swf",
+	                        swf: "https://dominicjennings.github.io/animation/2025 New/player.swf",
 	                        height: "379",
 	                        width: "620",
 	                        bgcolor: "#000000",
@@ -67,7 +67,7 @@ module.exports = function (req, res, url) {
 					apiserver: "/",
 					duration: "31",
 					playcount: 1,
-					thumbnailURL: "https://josephcrosmanplays532.github.io/s3base/files/thumbnails/movie/1451/6298451/15335238L.jpg",
+					thumbnailURL: "https://dominicjennings.github.io/s3base/files/thumbnails/movie/1451/6298451/15335238L.jpg",
 					copyable: "0",
 					isPublished: "1",
 					ctc: "go",
@@ -80,7 +80,7 @@ module.exports = function (req, res, url) {
 					is_emessage: "0",
 					storePath: process.env.STORE_URL + "/<store>",
 					clientThemePath: process.env.CLIENT_URL + "/<client_theme>",
-					animationPath: "https://josephcrosmanplays532.github.io/animation/18/",
+					animationPath: "https://dominicjennings.github.io/animation/2025 New/",
 					isEmbed: "0",
 					refuser: null,
 					utm_source: null,
@@ -95,10 +95,10 @@ module.exports = function (req, res, url) {
 					endStyle: 0,
 					isWide: "1",
 					pwm: 1,
-					s3base: "https://josephcrosmanplays532.github.io/s3base/",
+					s3base: "https://dominicjennings.github.io/s3base/",
 					showshare: false,
 				},
-				movie: "https://josephcrosmanplays532.github.io/animation/18/player.swf",
+				movie: "https://dominicjennings.github.io/animation/2025 New/player.swf",
 			};
 			break;
 		}
@@ -134,7 +134,7 @@ module.exports = function (req, res, url) {
 <meta property="og:title" content="Video Player"/>
 <meta property="og:description" content="I don't even know"/>
 <meta property="og:url" content="https://typescriptwrapper.herokuapp.com/player?movieId=m-3"/>
-<meta property="og:image" content="https://josephcrosmanplays532.github.io/s3base/files/thumbnails/movie/1451/6298451/15335238L.jpg"/>
+<meta property="og:image" content="https://dominicjennings.github.io/s3base/files/thumbnails/movie/1451/6298451/15335238L.jpg"/>
 
 <meta property="og:video" content="https://typescriptwrapper.herokuapp.com/player?movieId=m-3"/>
 <meta property="og:video:height" content="309"/>
@@ -321,7 +321,7 @@ GA_googleFetchAds();
 	<div class="row">
 		<div class="span8">
 			<div class="video-header clearfix">
-				<a href="https://josephcrosmanplays532.github.io/users/josephanimate2021"><img class="portrait portrait-small" src="https://josephcrosmanplays532.github.io/s3base/files/thumbnails/asset/1451/6298451/167994681.jpg" alt="Joseph Animate 2021"></a>
+				<a href="https://dominicjennings.github.io/users/josephanimate2021"><img class="portrait portrait-small" src="https://dominicjennings.github.io/s3base/files/thumbnails/asset/1451/6298451/167994681.jpg" alt="Joseph Animate 2021"></a>
 				<div class="meta">
 					<h1>If Supernatural was an anime</h1>
 					by <a href="https://josephcrosmanplays532.github.io/users/josephanimate2021" title="Dina Roach">Joseph Animate 2021</a> 
@@ -357,7 +357,7 @@ GA_googleFetchAds();
 <script type="text/javascript">
 jQuery('#bridgediv').flash({
 	id: "Bridge",
-	swf: "https://josephcrosmanplays532.github.io/static/libs/ConnectionBridge.swf?v=425",
+	swf: "https://dominicjennings.github.io/static/libs/ConnectionBridge.swf?v=425",
 	height: 1,
 	width: 1,
 
@@ -371,7 +371,7 @@ jQuery('#bridgediv').flash({
 <script type="text/javascript">
 jQuery('#playerdiv').flash({
 	id: "Player",
-	swf: "https://josephcrosmanplays532.github.io/animation/18/player.swf",
+	swf: "https://dominicjennings.github.io/animation/2025 New/player.swf",
 	height: 379,
 	width: 620,
 	bgcolor: "#D7D7D7",
@@ -721,7 +721,7 @@ var MOVIE_USERNAME = 'Dina Roach';
 				<img src="https://josephcrosmanplays532.github.io/static/477/go/img/footer/logo_norton.png" alt="Norton Secured"/>
 				<img src="https://josephcrosmanplays532.github.io/static/477/go/img/footer/logo_amazon.png" alt="AWS Partner Network"/>
 				&nbsp;&nbsp;&nbsp;
-				GoAnimate &copy; 2013
+				GoAnimate &copy; 2025
 			</div>
 		</div>
 	</div>
@@ -825,7 +825,7 @@ function bannedUser(value){
     }
 }
 </script>
-<div style="height:0;overflow:hidden;"><object width="1" height="1">   <param name="vap" value="https://josephcrosmanplays532.github.io/static/477/go/swf/VAP.swf"></param>   <param name="bgcolor" value="#000000"><param name="allowFullScreen" value="true"></param>   <param name="FlashVars" value="detect=true"/>   <param name="allowscriptaccess" value="always"></param>   <embed src="https://josephcrosmanplays532.github.io/static/477/go/swf/VAP.swf" flashvars="detect=true" type="application/x-shockwave-flash" width="1" height="1" bgcolor="#ffffff" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>    <script>
+<div style="height:0;overflow:hidden;"><object width="1" height="1">   <param name="vap" value="https://dominicjennings.github.io/static/477/go/swf/VAP.swf"></param>   <param name="bgcolor" value="#000000"><param name="allowFullScreen" value="true"></param>   <param name="FlashVars" value="detect=true"/>   <param name="allowscriptaccess" value="always"></param>   <embed src="https://dominicjennings.github.io/static/477/go/swf/VAP.swf" flashvars="detect=true" type="application/x-shockwave-flash" width="1" height="1" bgcolor="#ffffff" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>    <script>
     //check userdata (IE)
     if (IE.version > 6) {
         var ud = new UserData();
