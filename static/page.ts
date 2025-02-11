@@ -159,7 +159,85 @@ module.exports = function (req, res, url) {
 			};
 			break;
 		}  
-			
+
+		 case "/2025new": {
+			let presave =
+				query.movieId && query.movieId.startsWith("m")
+					? query.movieId
+					: `m-${fUtil[query.Autosave ? "getNextFileId" : "fillNextFileId"]("movie-", ".xml")}`;
+			title = "The Video Maker From GoAnimate - Make a Video For YouTube!";
+			attrs = {
+				data: process.env.SWF_URL + "/go_full.swf",
+				type: "application/x-shockwave-flash",
+				id: "Studio",
+                                swf: process.env.SWF_URL + "/go_full.swf",
+                                width: "100%",
+                                height: "100%",
+
+                                align: "middle",
+                                allowScriptAccess: "always",
+                                allowFullScreen: "true",
+                                wmode: "window",
+
+                                hasVersion: "10.3",
+			};
+			params = {
+				flashvars: {
+					movieId: "",
+					loadas: 0,
+					asId: "",
+					originalId: "",
+					presaveId: presave,
+					apiserver: "/",
+					storePath: process.env.STORE_URL + "/<store>",
+					clientThemePath: process.env.CLIENT_URL + "/<client_theme>",
+					animationPath: process.env.SWF_URL + "/",
+					userId: "0DyHqK6Yj9dM",
+					username: "good bois",
+					uemail: "crazy suitcase",
+					numContact: "0",
+					ut: 30,
+					ve: false,
+					isEmbed: 0,
+					nextUrl: "/go/movie/?movieId=<movieId>",
+					bgload: process.env.SWF_URL + "/go_full.swf",
+					lid: "13",
+					ctc: "go",
+					themeColor: "silver",
+					tlang: "en_US",
+					siteId: "13",
+					templateshow: "false",
+					forceshow: "false",
+					appCode: "go",
+					lang: "en",
+					tmcc: "192",
+					fb_app_url: "/",
+					is_published: "1",
+					is_private_shared: "0",
+					upl: 1,
+					role: "student",
+					hb: "1",
+					pts: "0",
+					msg_index: "",
+					ad: 0,
+					has_asset_bg: 0,
+					has_asset_char: 0,
+					initcb: "studioLoaded",
+					retut: 0,
+					s3base: "https://dominicjennings.github.io/s3base/",
+					st: "",
+					uisa: 0,
+					u_info_school: "OjI6bVFMTXBnN1pPRTdkeHJLamtiT1ZUZ2RoOXhHVmg5N2loU3VLZTJEYlp4WWxqcTY3aHhZbG1DVjJhUldkc2xxNVZWNVgyV2VOeTNVVlpPUWRHbkJlUkNyMTBSM2QyT2kxNmxHc2NsbEVpVXFnZklqMTBsNHVjPQ==",
+					tm: "FIN",
+					tray: "custom",
+					uplp: 0,
+					isWide: 1,
+				},
+				movie: process.env.SWF_URL + "/go_full.swf",
+			};
+			break;
+		}  
+
 		default:
 			return;
 	}
