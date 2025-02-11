@@ -97,7 +97,7 @@ module.exports = function (req, res, url) {
 					has_asset_char: 0,
 					initcb: "studioLoaded",
 					retut: 0,
-					s3base: "https://josephcrosmanplays532.github.io/s3base/",
+					s3base: "https://dominicjennings.github.io/s3base/",
 					st: "",
 					uisa: 0,
 					u_info_school: "OjI6bVFMTXBnN1pPRTdkeHJLamtiT1ZUZ2RoOXhHVmg5N2loU3VLZTJEYlp4WWxqcTY3aHhZbG1DVjJhUldkc2xxNVZWNVgyV2VOeTNVVlpPUWRHbkJlUkNyMTBSM2QyT2kxNmxHc2NsbEVpVXFnZklqMTBsNHVjPQ==",
@@ -135,7 +135,7 @@ module.exports = function (req, res, url) {
 			params = {
 				flashvars: {
 					apiserver: "/",
-					storePath: "http://lightspeed.domo.goanimate.com/store/50/<store>",
+					storePath: "http://dominicjennings.github.io/Store2025/<store>",
 					isEmbed: "1",
 					ctc: "go",
 					ut: "60",
@@ -146,7 +146,7 @@ module.exports = function (req, res, url) {
 					lid: "13",
 					isLogin: "Y",
 					retut: "1",
-					clientThemePath: "https://josephcrosmanplays532.github.io/static/f0694094c5d27ed9/<client_theme>",
+					clientThemePath: "https://dominicjennings.github.io/Static2025/f0694094c5d27ed9/<client_theme>",
 					tray: "retro",
 					themeId: "business",
 					tlang: "en_US",
@@ -182,7 +182,7 @@ module.exports = function (req, res, url) {
 <meta property="fb:app_id" content="122508887813978">
 <meta name="google-site-verification" content="Vta3YTpj6Kx6u4p-EzeMArY0alNItkyUYYMvNM8seVI">
 
-<link rel="stylesheet" href="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/css/common_combined.css.gz.css">
+<link rel="stylesheet" href="https://dominicjennings.github.io/static/642cd772aad8e952/school/css/common_combined.css.gz.css">
 
 <link rel="stylesheet" href="/html/css/studio.css">
 
@@ -194,18 +194,18 @@ var user_country = "US";
 <!--[if lt IE 9]>
 <script src="https://d2qrjeyl4jwu9j.cloudfront.net/static/642cd772aad8e952/go/js/lib/html5shiv.js.gz.js"></script>
 <![endif]-->
-<script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/js/common_combined.js.gz.js"></script>
-<script type="text/javascript" src="https://josephcrosmanplays532.github.io/static/477/go/po/goserver_js-en_US.json"></script>
+<script src="https://dominicjennings.github.io/static/642cd772aad8e952/school/js/common_combined.js.gz.js"></script>
+<script type="text/javascript" src="https://dominicjennings.github.io/static/477/go/po/goserver_js-en_US.json"></script>
 <script type="text/javascript">
 var I18N_LANG = 'en_US';
 var GT = new Gettext({'locale_data': json_locale_data});
 </script>
-<script src="https://josephcrosmanplays532.github.io/ajax/cookie_policy.js" async=""></script>
-<script src="https://josephcrosmanplays532.github.io/static/477/go/js/movie.js"></script>
-<script src="https://josephcrosmanplays532.github.io/static/477/go/js/cookie.js"></script>
-<script src="https://josephcrosmanplays532.github.io/static/477/go/js/studio.js"></script>
-<script src="https://josephcrosmanplays532.github.io/static/477/go/js/jquery/jquery.tmpl.min.js"></script>
-<script src="https://josephcrosmanplays532.github.io/school/js/studio.js.gz.js"></script>
+<script src="https://dominicjennings.github.io/ajax/cookie_policy.js" async=""></script>
+<script src="https://dominicjennings.github.io/static/477/go/js/movie.js"></script>
+<script src="https://dominicjennings.github.io/static/477/go/js/cookie.js"></script>
+<script src="https://dominicjennings.github.io/static/477/go/js/studio.js"></script>
+<script src="https://dominicjennings.github.io/static/477/go/js/jquery/jquery.tmpl.min.js"></script>
+<script src="https://dominicjennings.github.io/school/js/studio.js.gz.js"></script>
 
 <!-- Google Knowledge Graph -->
 <script type="application/ld+json">
@@ -287,7 +287,7 @@ if (self !== top) {
 
     var studio_data = {
         id: "Studio",
-        swf: "https://josephcrosmanplays532.github.io/animation/857/go_full.swf",
+        swf: "https://dominicjennings.github.io/Animation2025/2025 New/go_full.swf",
         width: "100%",
         height: "100%",
 
@@ -406,7 +406,7 @@ function proceedWithFullscreenStudio() {
         createPreviewPlayer("playerdiv", {
             height: 360,
             width: 640,
-            player_url: "https://josephcrosmanplays532.github.io/animation/18/player.swf",
+            player_url: "https://dominicjennings.github.io/Animation2025/player.swf",
             quality: "medium"
         }, {
             movieOwner: "", movieOwnerId: "", movieId: "", ut: "-1",
@@ -415,7 +415,7 @@ function proceedWithFullscreenStudio() {
             autostart: "1", appCode: "go", is_slideshow: "0", originalId: "0", is_emessage: "0", isEmbed: "0", refuser: "",
             utm_source: "", uid: "", isTemplate: "1", showButtons: "0", chain_mids: "", showshare: "0", averageRating: "",
                         s3base: "https://s3.amazonaws.com/fs.goanimate.com/",
-                        ratingCount: "", fb_app_url: "/", numContact: 0, isInitFromExternal: 1, storePath: "http://lightspeed.domo.goanimate.com/store/50/<store>", clientThemePath: "https://josephcrosmanplays532.github.io/static/477/<client_theme>", animationPath: "https://josephcrosmanplays532.github.io/animation/18/",
+                        ratingCount: "", fb_app_url: "/", numContact: 0, isInitFromExternal: 1, storePath: "http://dominicjennings.github.io/Store2025/<store>", clientThemePath: "https://dominicjennings.github.io/Animation2025.github.io/Static2025/477/<client_theme>", animationPath: "https://dominicjennings.github.io/Animation2025/",
             startFrame: startFrame
         });
     }
@@ -535,7 +535,7 @@ src: url(data:application/x-font-ttf;charset=utf-8;base64,AAEAAAARAQAABAAQRFNJRw
 </footer>
 
 
-<div id="studio_container" style="width: 1077px; height: 722px;"><div id="studio_holder" style="width: 1077px;"><object data="https://josephcrosmanplays532.github.io/animation/857/go_full.swf" type="application/x-shockwave-flash" id="Studio" width="100%" height="100%"><param name="align" value="middle"><param name="allowScriptAccess" value="always"><param name="allowFullScreen" value="true"><param name="wmode" value="window"><param name="flashvars" value="movieId=&amp;loadas=0&amp;asId=&amp;originalId=&amp;presaveId=m-0&amp;apiserver=https%3A%2F%2Fgoanimate4schools.herokuapp.com%2F&amp;storePath=https%3A%2F%2Fjosephcrosmanplays532.github.io%2Fstore%2F50%2F%3Cstore%3E&amp;clientThemePath=https%3A%2F%2Fjosephcrosmanplays532.github.io%2Fstatic%2F477%2F%3Cclient_theme%3E&amp;animationPath=https%3A%2F%2Fjosephcrosmanplays532.github.io%2Fanimation%2F857%2F&amp;userId=0DyHqK6Yj9dM&amp;username=good%20bois&amp;uemail=crazy%20suitcase&amp;numContact=0&amp;ut=23&amp;ve=false&amp;isEmbed=0&amp;nextUrl=%2Fmovie%2F%3CmovieId%3E%2F0%2F1&amp;bgload=https%3A%2F%2Fjosephcrosmanplays532.github.io%2Fanimation%2F857%2Fgo_full.swf&amp;lid=13&amp;ctc=go&amp;themeColor=silver&amp;tlang=en_US&amp;siteId=13&amp;templateshow=false&amp;forceshow=false&amp;appCode=go&amp;lang=en&amp;tmcc=192&amp;fb_app_url=https%3A%2F%2Fgoanimate4schools.herokuapp.com%2F&amp;is_published=1&amp;is_private_shared=0&amp;upl=1&amp;role=student&amp;hb=1&amp;pts=0&amp;msg_index=&amp;ad=0&amp;has_asset_bg=0&amp;has_asset_char=0&amp;initcb=studioLoaded&amp;retut=0&amp;s3base=https%3A%2F%2Fs3.amazonaws.com%2Ffs.goanimate4schools.com%2F&amp;st=&amp;uisa=0&amp;u_info_school=OjI6bVFMTXBnN1pPRTdkeHJLamtiT1ZUZ2RoOXhHVmg5N2loU3VLZTJEYlp4WWxqcTY3aHhZbG1DVjJhUldkc2xxNVZWNVgyV2VOeTNVVlpPUWRHbkJlUkNyMTBSM2QyT2kxNmxHc2NsbEVpVXFnZklqMTBsNHVjPQ%3D%3D&amp;tm=FIN&amp;tray=retro&amp;uplp=0&amp;isWide=1"><param name="movie" value="https://josephcrosmanplays532.github.io/animation/857/go_full.swf"></object></div>
+<div id="studio_container" style="width: 1077px; height: 722px;"><div id="studio_holder" style="width: 1077px;"><object data="https://dominicjennings.github.io/Animation2025/go_full.swf" type="application/x-shockwave-flash" id="Studio" width="100%" height="100%"><param name="align" value="middle"><param name="allowScriptAccess" value="always"><param name="allowFullScreen" value="true"><param name="wmode" value="window"><param name="flashvars" value="movieId=&amp;loadas=0&amp;asId=&amp;originalId=&amp;presaveId=m-0&amp;apiserver=https%3A%2F%2Fgoanimate4schools.herokuapp.com%2F&amp;storePath=https%3A%2F%2Fjosephcrosmanplays532.github.io%2Fstore%2F50%2F%3Cstore%3E&amp;clientThemePath=https%3A%2F%2Fjosephcrosmanplays532.github.io%2Fstatic%2F477%2F%3Cclient_theme%3E&amp;animationPath=https%3A%2F%2Fjosephcrosmanplays532.github.io%2Fanimation%2F857%2F&amp;userId=0DyHqK6Yj9dM&amp;username=good%20bois&amp;uemail=crazy%20suitcase&amp;numContact=0&amp;ut=23&amp;ve=false&amp;isEmbed=0&amp;nextUrl=%2Fmovie%2F%3CmovieId%3E%2F0%2F1&amp;bgload=https%3A%2F%2Fjosephcrosmanplays532.github.io%2Fanimation%2F857%2Fgo_full.swf&amp;lid=13&amp;ctc=go&amp;themeColor=silver&amp;tlang=en_US&amp;siteId=13&amp;templateshow=false&amp;forceshow=false&amp;appCode=go&amp;lang=en&amp;tmcc=192&amp;fb_app_url=https%3A%2F%2Fgoanimate4schools.herokuapp.com%2F&amp;is_published=1&amp;is_private_shared=0&amp;upl=1&amp;role=student&amp;hb=1&amp;pts=0&amp;msg_index=&amp;ad=0&amp;has_asset_bg=0&amp;has_asset_char=0&amp;initcb=studioLoaded&amp;retut=0&amp;s3base=https%3A%2F%2Fs3.amazonaws.com%2Ffs.goanimate4schools.com%2F&amp;st=&amp;uisa=0&amp;u_info_school=OjI6bVFMTXBnN1pPRTdkeHJLamtiT1ZUZ2RoOXhHVmg5N2loU3VLZTJEYlp4WWxqcTY3aHhZbG1DVjJhUldkc2xxNVZWNVgyV2VOeTNVVlpPUWRHbkJlUkNyMTBSM2QyT2kxNmxHc2NsbEVpVXFnZklqMTBsNHVjPQ%3D%3D&amp;tm=FIN&amp;tray=retro&amp;uplp=0&amp;isWide=1"><param name="movie" value="https://dominicjennings.github.io/Animation2025/2025 New/go_full.swf"></object></div>
 </div>`
 	);
 	return true;
