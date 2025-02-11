@@ -35,7 +35,7 @@ module.exports = function (req, res, url) {
 	switch (url.pathname) {
 		case "/go/charactercreator/new_char/": {
 			attrs = {
-				data: "https://dominicjennings.github.io/animation/808/cc.swf", // data: 'cc.swf',
+				data: "https://dominicjennings.github.io/Animation2025/2025 New/cc.swf", // data: 'cc.swf',
 				type: "application/x-shockwave-flash",
 				id: "char_creator",
 	                        height: "500",
@@ -59,7 +59,7 @@ module.exports = function (req, res, url) {
 					ut: "60",
 				},
 				allowScriptAccess: "always",
-				movie: "https://dominicjennings.github.io/animation/808/cc.swf", // 'http://localhost/cc.swf'
+				movie: "https://dominicjennings.github.io/Animation2025/2025 New/cc.swf", // 'http://localhost/cc.swf'
 			};
 			break;
 		}
