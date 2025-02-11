@@ -102,7 +102,7 @@ module.exports = function (req, res, url) {
 					uisa: 0,
 					u_info_school: "OjI6bVFMTXBnN1pPRTdkeHJLamtiT1ZUZ2RoOXhHVmg5N2loU3VLZTJEYlp4WWxqcTY3aHhZbG1DVjJhUldkc2xxNVZWNVgyV2VOeTNVVlpPUWRHbkJlUkNyMTBSM2QyT2kxNmxHc2NsbEVpVXFnZklqMTBsNHVjPQ==",
 					tm: "FIN",
-					tray: "retro",
+					tray: "custom",
 					uplp: 0,
 					isWide: 1,
 				},
